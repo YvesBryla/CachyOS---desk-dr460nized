@@ -1,23 +1,4 @@
 
-# Sautez cette étape si vous avez déjà installer CachyOS
-
-## Installation CachyOS
-Lors du lancement sur le liveCD de CachyOS le Plasma X11 desktop bug => Utiliser Wayland desktop
-Pensez que lors de l'installation de CachyOS le clavier est en qwerty et non azerty (risque de mdp en qwerty)
-
-
-## Configuration VirtualBox
-### Setting
-System
-Mettre Le disque dur en priority dans le Boot Device Order
-
-Affichage
-Video Memory 128 Mo
-Graphics controller VboxVGA
-
-Réseau 
-Accès par pont
-
 # Configuration du Desk en dr460nized
 
 ## Configuration des icones & thème
@@ -88,3 +69,4 @@ Accès par pont
 
 
 Panel Transpery Toggle
+
