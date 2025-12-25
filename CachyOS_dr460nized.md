@@ -64,9 +64,3 @@
             - Passer avec la souris sur l'icone 
                 - Configurer ne pas afficher l'icone en dehors du mode création
 
-
-
-
-
-Panel Transpery Toggle
-
