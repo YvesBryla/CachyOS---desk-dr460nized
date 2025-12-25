@@ -1,5 +1,4 @@
-
-# Configuration du Desk en dr460nized
+# Configuration du burau KDE Plasme en dr460nized
 
 ## Configuration des icones & thème
 - Touche windows ou menu démarrer -> tapez : couleurs et cliquez dessus  
@@ -63,4 +62,5 @@
                     - Ajouter Pannel Tranrency Toggle
             - Passer avec la souris sur l'icone 
                 - Configurer ne pas afficher l'icone en dehors du mode création
+
 
